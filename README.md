@@ -5,7 +5,7 @@ A JavaFX application for organising study sessions, tracking deadlines, and visu
 ##  Features
 - Add, edit, and remove study tasks
 - Assign deadlines to each task
-- Color-coded urgency levels based on how close the deadline is
+- Colour-coded urgency levels based on how close the deadline is
 - Progress bar showing how much of your study plan is complete
 - Clean and modern JavaFX interface styled with CSS
 
@@ -20,6 +20,6 @@ This project was created to:
 ---
 
 ## 🛠 Technologies Used
-- **Java** (JDK 17+)
-- **JavaFX** for the UI
-- **CSS** for custom styling
+- Java (JDK 17+)
+- JavaFX for the UI
+- CSS for custom styling
