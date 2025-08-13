@@ -19,7 +19,7 @@ This project was created to:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Java (JDK 17+)
 - JavaFX for the UI
 - CSS for custom styling
